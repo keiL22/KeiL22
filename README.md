@@ -55,11 +55,11 @@
     
 |Resource|Experience| 
 |---     |:---:     |
+|Linux   |       🟢|
 |mySQL   |       🟢|
+|AWS     |       🟢|
 |PHP     |       🟡|
-|AWS     |       🟡|
-|Django  |       🔴|
-|Springboot |    🔴|
+|Django  |       🟡|
     
 </td><td>
     
