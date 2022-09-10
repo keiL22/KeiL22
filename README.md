@@ -21,3 +21,51 @@
   >〘 𝑜𝑝𝑒𝑛 𝑠𝑜𝑢𝑟𝑐𝑒 Home Assistant : To help learn Networking + Daily Practice 〙
   
   >〘 Hoping to familarize myself with more Frontend/Backend Frameworks 〙
+------
+- `ғᴀᴍɪʟɪᴀʀɪᴛʏ`
+
+<table>
+<tr><th>ʙᴀsɪᴄ</th><th>ғʀᴏɴᴛᴇɴᴅ</th><th>ʙᴀᴄᴋᴇɴᴅ</th><th>sᴏғᴛᴡᴀʀᴇ</th></tr>
+<tr><td>
+    
+|Language|Experience| 
+|---     |:---:     |
+|Java    |       🟢|
+|C       |       🟢|
+|Python  |       🟢|
+|C#      |       🟡|
+|C++     |       🟡|
+    
+</td><td>
+    
+|Resource|Experience| 
+|---     |:---:     |
+|JS      |       🟢|
+|HTML    |       🟢|
+|CSS     |       🟡|
+|ReactJS |       🟡|
+|Angular |       🔴|
+    
+</td><td>
+    
+|Resource|Experience| 
+|---     |:---:     |
+|mySQL   |       🟢|
+|PHP     |       🟡|
+|AWS     |       🟡|
+|Django  |       🔴|
+|Springboot |    🔴|
+    
+</td><td>
+    
+|Software|Experience| 
+|---     |:---:     |
+|MS Apps |       🟢|
+|Unity   |       🟢|
+|Eclipse |       🟢|
+|RPG Maker|      🟡|
+|Git/Github|     🟡|
+
+</td></tr></table>
+
+------
