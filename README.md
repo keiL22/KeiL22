@@ -21,6 +21,8 @@
   ><img width="20" src="https://imgur.com/rzRlaDz.png" alt="Icon Image">〘 𝑜𝑝𝑒𝑛 𝑠𝑜𝑢𝑟𝑐𝑒 Home Assistant : To help learn Networking + Daily Practice 〙
   
   ><img width="20" src="https://imgur.com/rzRlaDz.png" alt="Icon Image">〘 Hoping to familarize myself with more Frontend/Backend Frameworks 〙
+  
+  ><img width="20" src="https://imgur.com/rzRlaDz.png" alt="Icon Image">〘 𝑎𝑝𝑝𝑙𝑖𝑐𝑎𝑡𝑖𝑜𝑛 Genshin Character Management System : ᴊᴀᴠᴀ | ᴍʏsᴏ̨ʟ 〙
 ------
 - `ғᴀᴍɪʟɪᴀʀɪᴛʏ`
 
