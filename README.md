@@ -76,7 +76,3 @@
 </td></tr></table>
 
 ------
-
-<p align="center">
-    <img width="435" src="https://github.com/KeisukeL/Portfolio-Webpage-Static/blob/main/Images/divider1.png" alt="Divider Image">
-</p>
