@@ -1,7 +1,7 @@
 ## `🌿 ᴡᴇʟᴄᴏᴍᴇ 🌿`
 [`✦ ʟɪɴᴋᴇᴅɪɴ`](https://www.linkedin.com/in/keisuke-lester-4326851b6/) ◆ `✦ ᴘᴏʀᴛғᴏʟɪᴏ(WIP)` ◆ `✦ ᴇᴍᴀɪʟ : keisuke.lester@my.utsa.edu`
 
-    I'm Keisuke Lester! Current undergrad at UTSA, 
+    I'm Kei Lester! Current undergrad at UTSA, 
     graduating in Spring 2023 and hopefully continuing on to get my Masters Degree. 
     My current passion is for Software Engineering, hoping to improve my skills as a Fullstack Developer. 
     If you have any open source projects you think would interest me please let me know!
